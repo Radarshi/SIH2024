@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    background-color: gray;
+}
+#map{
+    height: 600px;
+    width: 800px;
+    position: absolute;
+    top: 15%;
+    border-radius: 10%;
+}
